@@ -14,7 +14,7 @@ COURSES = {
                     "functions", "input"}
 }
 
-word = {"Python"}
+word = {"loops"}
 
 def covers(topic):
   courses_on_topic = []
